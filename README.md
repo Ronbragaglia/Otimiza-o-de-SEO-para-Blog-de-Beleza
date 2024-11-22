@@ -25,3 +25,7 @@ Seaborn: Para criar visualizações mais atraentes e informativas.
 Ambiente de Desenvolvimento:
 Google Colab: Para facilitar o desenvolvimento e a execução do código, permitindo a colaboração e o compartilhamento fácil de resultados.
 
+Resultados:
+![image](https://github.com/user-attachments/assets/9aaad39e-6e58-408c-b097-56d734cb0898)
+![image](https://github.com/user-attachments/assets/3840fef9-dfec-4458-b077-94208ebba67f)
+
